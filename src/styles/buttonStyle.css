@@ -1,0 +1,12 @@
+.featureBtn {
+    background-color: #ebf8f8;
+    border-width: 0;
+    border-radius: 25px;
+    padding: 4rem;
+    text-align: left;
+    padding: 20px;
+}
+
+.active {
+    background-color: #c7f1f1;
+}
