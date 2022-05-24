@@ -1,3 +1,7 @@
+## UPDATES: 
+**Github Page:**
+References: 
+[deploying React app on Github pages](https://www.c-sharpcorner.com/article/how-to-deploy-react-application-on-github-pages/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
