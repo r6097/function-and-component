@@ -2,7 +2,7 @@
   "name": "function-and-component",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://r6097.github.io/function-and-component",
+  "homepage":"https://r6097.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
