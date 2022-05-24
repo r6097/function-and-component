@@ -1,7 +1,8 @@
 ## UPDATES: 
-**Github Page:** https://r6097.github.io/function-and-component/
+**Github Page/Live Demo Here -->** https://r6097.github.io/function-and-component/
 
 References: 
+
 [deploying React app on Github pages](https://www.c-sharpcorner.com/article/how-to-deploy-react-application-on-github-pages/)
 # Getting Started with Create React App
 
